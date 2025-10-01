@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Diplom</string>
+    <string name="diagnosis_result">Диагноз: %1$s</string>
+</resources>
